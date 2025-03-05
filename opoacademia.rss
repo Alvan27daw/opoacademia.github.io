@@ -1,5 +1,5 @@
 <rss version="2.0">
- <opoacademia>
+ <channel>
   <title>opoacademia RSS</title>
   <link>https://alvan27daw.github.io/opoacademia.github.io/opoacademia.rss</link>
   <description>Contenido que vamos a dar a los usuarios</description>
@@ -20,5 +20,5 @@
    <link>https://alvan27daw.github.io/opoacademia.github.io/campus%20virtual.html</link>
    <description>Pagina para acceder al campus virtual</description>
   </item>
- </opoacademia>
+ </channel>
 </rss>
