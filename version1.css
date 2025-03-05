@@ -1,0 +1,41 @@
+body{
+  background-image: url("imagen 3 html.jpeg");
+}
+
+.cabecera {
+border: 2px solid black; background-color: black; color: yellow;
+}
+li{
+  align-content: center; display: flex; align-items: center;justify-content: space-between;
+}
+a{
+  color: yellow;
+ }
+a:visited{
+  color: white;
+}
+ table{
+   width: 100%; border-collapse: collapse; border: 1px solid black;
+ }
+ th{
+  border: 1px solid black; background-color: black; color: yellow;
+}
+ td{
+   border: 1px solid black;
+ }
+.opoacademia{
+  border: 5px solid yellow;
+  border-color: yellow;
+  padding: 2px;
+  display: inline-block;
+  background-color: black; color: yellow;
+  border-radius: 15px;
+  margin: 12px;
+}
+form{
+color: black;
+}
+input{
+color: yellow;
+background-color: black;
+}
