@@ -1,0 +1,24 @@
+<rss version="2.0">
+ <opoacademia>
+  <title>opoacademia RSS</title>
+  <link>https://alvan27daw.github.io/opoacademia.github.io/opoacademia.rss</link>
+  <description>Contenido que vamos a dar a los usuarios</description>
+  <languaje>es-ES</languaje>
+
+  <item>
+   <title>Index</title>
+   <link>https://alvan27daw.github.io/opoacademia.github.io/index.html</link>
+   <description>Pagina principal o indice de la pagina web</description>
+  </item>
+  <item>
+   <title>precios</title>
+   <link>https://alvan27daw.github.io/opoacademia.github.io/Precios.html</link>
+   <description>Pagina donde estan todos los precios de la pagina web</description>
+  </item>
+  <item>
+   <title>Campus virtual </title>
+   <link>https://alvan27daw.github.io/opoacademia.github.io/campus%20virtual.html</link>
+   <description>Pagina para acceder al campus virtual</description>
+  </item>
+ </opoacademia>
+</rss>
