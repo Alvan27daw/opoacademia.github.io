@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>responsive</title>
+  <link rel="stylesheet" href="/Responsive/version1.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+<div class="cabecera">
+  <li>
+    <h1>OPOACADEMIA</h1>
+    <h4><a href="/Responsive/Precios.html"> precios  </a></h4>
+    <div style="border: 3px solid white; background-color: black;padding: 3px ; color: yellow; text-align:right">
+      <h4><a href="/Responsive/campus%20virtual.html"> Campus virtual  </a></h4>
+    </div>
+  </li>
+</div>
+
+<div style="border: 2px solid black;background-color: white; color: black; text-align: left; margin: 50px;margin-top: 50px;">
+<h1>La academia perfecta para tus oposiciones</h1>
+<h2>Porque somos tu academia perfecta?</h2>
+<h4>Llevamos 68 años formando a personas como tú.</h4>
+
+<h4>En este tiempo hemos ayudado a +63.000 alumnos a conseguir su plaza de funcionario en el Estado, Comunidades, Ayuntamientos, Seguridad Social y muchas otras preparaciones donde somos líderes.</h4>
+  <h4>Descubre todos nuestros recursos, desde clases en directo y cursos online hasta test, esquemas y libros de oposiciones que terminarán de afianzar tu plaza en la oposición que elijas.</h4>
+  <video width="320" height="240" controls>
+    <source src="/Responsive/video.mp4" type="video/mp4">
+    <source src="/Responsive/video.ogg" type="video/ogg">
+
+  </video>
+<h4>Continúa leyendo y mira nuestras oposiciones destacadas. </h4>
+</div>
+<div style="border: 2px solid black;background-color: white; color: black; text-align: left; margin: 50px;margin-top: 50px;">
+<h1>Que oposiciones hay en proximamente</h1>
+<h3>TAI 16/02/2025</h3>
+<h3>TIA 16/03/2025</h3>
+<h3>DAM 18/06/2025</h3>
+</div>
+<div style="border: 2px solid black; background-color: black; color: yellow;">
+<div style="align-items: center;justify-content: space-between;">
+<h1>Contactanos:</h1>
+<h4>opo@Gmail</h4>
+<h4> Instagram: esoposiciones</h4>
+</div>
+</div>
+<a href="/Responsive/opoacademia.rss"><img src="rss.png" style="width: 50px"></a>
+
+</body>
+</html>
